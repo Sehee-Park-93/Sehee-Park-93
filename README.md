@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 
   - #### Projects
-    https://github.com/codestates/Cogether (동료 개발자 구인 웹) 
+    https://github.com/Sehee-Park-93/Cogether (동료 개발자 구인 웹) 
 
 
 ### 📧 자유로운 연락을 환영하며, 인연을 소중히 생각합니다.
